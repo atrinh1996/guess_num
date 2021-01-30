@@ -1,0 +1,34 @@
+#
+# README
+#
+# Author: Amy B.
+#
+
+PURPOSE
+---------------------------
+    Play a number guessing game with user. User able to 
+    guess (with hints) until correct number is guessed.
+
+ACKNOWLEDGEMENTS
+---------------------------
+    Python exercise taken from:
+        Automate the Boring Stuff with Python
+        By Al Sweigart
+
+FILES
+---------------------------
+    - README:       this file
+    - guess.py:     main program driver.
+
+RUN
+---------------------------
+    Run with:
+        python guess.py
+
+    - or with a batch file:
+
+        guess
+
+BUGS/Notes
+---------------------------
+    Does not handle when user enters invalid input.
